@@ -1,1 +1,6 @@
-"python.pythonPath": "/Users/Avery Stehr/.conda/envs/general_intelligence/python"
+{
+    "python.autoComplete.extraPaths": ["c:/Users/AJ/VSCodeProjects/general_intelligence/"
+                                      ,"c:/Users/AJ/VSCodeProjects/general_intelligence/.vscode"],
+    "python.pythonPath": "/Users/Avery Stehr/.conda/envs/general_intelligence/python"
+    // "terminal.integrated.shell.windows": "C:/windows/System32/WindowsPowerShell/v1.0/powershell.exe",
+}
